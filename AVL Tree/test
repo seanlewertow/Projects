@@ -1,0 +1,20 @@
+19
+insert "A" 10000000
+insert "B" 10000001
+insert "C" 10000002
+insert "D" 10000003
+insert "E" 10000004
+insert "F" 10000005
+insert "G" 10000006
+insert "H" 10000007
+insert "I" 10000008
+insert "J" 10000009
+insert "K" 10000010
+insert "L" 10000011
+insert "M" 10000012
+insert "N" 10000013
+insert "O" 10000014
+insert "P" 10000015
+insert "Q" 10000016
+insert "R" 10000017
+printPreorder
